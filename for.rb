@@ -5,6 +5,3 @@ def using_for
 	puts "Wingardium Leviosa"
 	#your code here
 end
-  using_for
-end 
-
